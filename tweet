@@ -3,6 +3,8 @@
 use strict;
 use warnings;
 
+#This is where you have to specify your local of file you want to examine
+
 my $file = "Fill in";
 open FI, " < $file" or die "unable to locate the file";
 
