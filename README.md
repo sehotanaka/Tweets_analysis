@@ -1,6 +1,6 @@
-# Tweets_analysis
+# RT Collecter
 Prerequisite : Maltego 
 
+`"Sentimental [IBM]" Must be applied to the RT.txt`
 
-Need to have expression "Sentimental [IBM]" applied to the file which is read by parser.
 
